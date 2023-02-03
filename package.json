@@ -1,0 +1,20 @@
+{
+  "name": "last-write-wins-element-set",
+  "version": "1.0.0",
+  "description": "LWW Element Set is an algorithm under Conflict-free replicated data type(CRDT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "lww"
+  ],
+  "author": "mazsam",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^29.4.1",
+    "jest": "^29.4.1"
+  }
+}
